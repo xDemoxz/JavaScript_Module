@@ -1,1 +1,1 @@
-H1 modulo JavaScript.
+H2 modulo JavaScript.
