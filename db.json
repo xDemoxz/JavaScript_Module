@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "yu5Cddp7_dA",
+      "name": "asd1",
+      "price": 1233
+    },
+    {
+      "id": "qIRQ19dUHr8",
+      "name": "asd1",
+      "price": 1233
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
