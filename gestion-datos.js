@@ -43,7 +43,7 @@ console.log("¿Existe el número 3?");
 console.log(numeros.has(3));
 
 // Eliminar un número
-numeros.delete(2);
+// numeros.delete(2);
 
 console.log("Set después de eliminar 2:");
 console.log(numeros);
@@ -99,7 +99,7 @@ console.log(Object.keys(productos));
 
 // Uso de Object.values()
 console.log("Valores del objeto:");
-console.log(Object.values(productos));
+console.log(Object.values(productos)); 
 
 
 // Uso de Object.entries()
